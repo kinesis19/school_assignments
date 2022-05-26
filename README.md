@@ -1,5 +1,14 @@
 # school_assignments
 본 repo는 응용 소프트웨어 시간 과제 repo 임을 밝힘.
+# 소스코드 배열 구조 설명
+/*학생 배열 선언
+	stu_ary1은 int형 data 저장 장소. 
+	stu_ary1[0] = 학생 Num,
+	stu_ary1[1] = 국어 점수,
+	stu_ary1[2] = 영어 점수,
+	stu_ary1[3] = 수학 점수,
+	stu_ary1[4] = 점수 합계. 
+*/
 
 ## 2022.05.25
 1. 과제 발급 받음.
